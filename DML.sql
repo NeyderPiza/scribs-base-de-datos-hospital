@@ -1,5 +1,5 @@
 --datos de las tablas
-
+--insertar datos a la tabla
 INSERT INTO tipo_documento (tipo_documento) VALUES
 ('DNI'),
 ('Pasaporte'),
